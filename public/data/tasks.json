@@ -1,0 +1,54 @@
+{
+    "data": [
+        {
+            "name": "Réviser le code existant",
+            "description": "Analyser et mettre à jour le code pour améliorer la lisibilité et les performances.",
+            "completed": true
+        },
+        {
+            "name": "Développer une nouvelle fonctionnalité",
+            "description": "Créer et intégrer une nouvelle fonctionnalité dans l'application.",
+            "completed": false
+        },
+        {
+            "name": "Effectuer des tests unitaires",
+            "description": "Rédiger et exécuter des tests unitaires pour assurer la qualité du code.",
+            "completed": true
+        },
+        {
+            "name": "Optimiser la base de données",
+            "description": "Analyser et optimiser les requêtes SQL pour améliorer les performances.",
+            "completed": false
+        },
+        {
+            "name": "Rédiger la documentation technique",
+            "description": "Mettre à jour la documentation technique pour refléter les dernières modifications.",
+            "completed": false
+        },
+        {
+            "name": "Planifier la prochaine itération",
+            "description": "Organiser une réunion pour planifier les tâches de la prochaine itération.",
+            "completed": false
+        },
+        {
+            "name": "Corriger les bugs signalés",
+            "description": "Résoudre les bugs identifiés par l'équipe de test ou les utilisateurs.",
+            "completed": false
+        },
+        {
+            "name": "Revue de code en équipe",
+            "description": "Organiser une session de revue de code avec l'équipe pour partager les bonnes pratiques.",
+            "completed": false
+        },
+        {
+            "name": "Mise à jour de l'environnement de développement",
+            "description": "Mettre à jour les outils et dépendances utilisés dans l'environnement de développement.",
+            "completed": false
+        },
+        {
+            "name": "Déploiement en production",
+            "description": "Préparer et exécuter le déploiement de la nouvelle version de l'application en production.",
+            "completed": false
+        }
+    ]
+}
